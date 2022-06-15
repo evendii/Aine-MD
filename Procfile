@@ -1,5 +1,5 @@
-worker: node.
+worker: node. --session 'session.data.json'
 
---session session.data.json'
+
 
 
